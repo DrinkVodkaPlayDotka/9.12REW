@@ -1,0 +1,15 @@
+D:\C#\9.12REWORK\bin\Debug\net7.0\9.12REWORK.exe
+D:\C#\9.12REWORK\bin\Debug\net7.0\9.12REWORK.deps.json
+D:\C#\9.12REWORK\bin\Debug\net7.0\9.12REWORK.runtimeconfig.json
+D:\C#\9.12REWORK\bin\Debug\net7.0\9.12REWORK.dll
+D:\C#\9.12REWORK\bin\Debug\net7.0\9.12REWORK.pdb
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.csproj.AssemblyReference.cache
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.AssemblyInfoInputs.cache
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.AssemblyInfo.cs
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.csproj.CoreCompileInputs.cache
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.dll
+D:\C#\9.12REWORK\obj\Debug\net7.0\refint\9.12REWORK.dll
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.pdb
+D:\C#\9.12REWORK\obj\Debug\net7.0\9.12REWORK.genruntimeconfig.cache
+D:\C#\9.12REWORK\obj\Debug\net7.0\ref\9.12REWORK.dll
